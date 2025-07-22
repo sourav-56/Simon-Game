@@ -1,0 +1,28 @@
+.box{
+    border: 6px solid black;
+    height: 100px;
+    width: 100px;
+    border-radius: 20%;
+    margin: 15px;
+
+}
+.boxes{
+    display: flex;
+    justify-content: center;
+cursor: pointer;}
+body{
+    text-align: center;
+background-color: #f0f0f0;
+}
+.box1{
+    background-color:rgba(233, 88, 112, 0.918) ;
+}
+.box2{
+    background-color: rgb(220, 131, 99);
+}
+.box3{
+    background-color: rgba(10, 138, 198, 0.989);
+}
+.box4{
+    background-color: rgb(95, 114, 223);
+}
